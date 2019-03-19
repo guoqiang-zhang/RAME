@@ -1,1 +1,1 @@
-# RAME
+# Rapidly Adapting Moment Estimation (RAME)
